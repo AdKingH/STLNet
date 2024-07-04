@@ -1,0 +1,1 @@
+epoch  lr          P           R           F1          mIOU        OA          best_metric train_loss  val_loss    

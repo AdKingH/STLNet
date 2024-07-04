@@ -1,0 +1,2 @@
+epoch  lr          P           R           F1          mIOU        OA          best_metric train_loss  val_loss    
+0      0           0.852295    0.792844    0.821495    0.798561    0.918743    0.0         0           0           
