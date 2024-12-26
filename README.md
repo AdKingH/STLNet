@@ -23,8 +23,9 @@ python train.py
  ```
 
 ## To Test
-
-1. python eval.py
+ ```
+python eval.py 
+ ```
 
 
 
